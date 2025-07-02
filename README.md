@@ -41,7 +41,7 @@ void loop() {
   digitalWrite(stepPin, LOW);
   delayMicroseconds(delayTime);
 }
-📊 Observations
+## 📊 Observations
 No climbing observed with water (Newtonian)
 
 5000 ppm: Minimal effect
@@ -50,13 +50,13 @@ No climbing observed with water (Newtonian)
 
 15000 ppm: Maximum climbing due to higher elasticity
 
-📈 Results
+## 📈 Results
 PAM Concentration	Max Climbing Height	Threshold RPM
 5000 ppm	Low	High
 10000 ppm	Moderate	Medium
 15000 ppm	High	Low
 
-📚 References
+## 📚 References
 A.S. Lodge et al. Rod-climbing in viscoelastic fluids, J. Chem. Phys.
 
 Bird, Armstrong, Hassager - Dynamics of Polymeric Liquids
